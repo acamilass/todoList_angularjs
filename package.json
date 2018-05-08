@@ -1,0 +1,27 @@
+{
+  "name": "todolist_angularjs",
+  "version": "1.0.0",
+  "description": "Criando todoList",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acamilass/todoList_angularjs.git"
+  },
+  "keywords": [
+    "angularjs",
+    "todolist"
+  ],
+  "author": "Ana Camila Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acamilass/todoList_angularjs/issues"
+  },
+  "homepage": "https://github.com/acamilass/todoList_angularjs#readme",
+  "dependencies": {
+    "angular": "^1.6.10",
+    "ng-redux": "^4.0.3"
+  }
+}
